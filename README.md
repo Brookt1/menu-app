@@ -11,7 +11,7 @@ This project is a food delivery or online ordering platform designed to enhance 
 
 ## 📱 Screenshots
 
-![Screenshot](lib\assets\images\screenshot.png)
+![Screenshot](assets\images\screenshot.png)
 
 
 ## 📋 How to Use
