@@ -11,7 +11,7 @@ This project is a food delivery or online ordering platform designed to enhance 
 
 ## 📱 Screenshots
 
-![Screenshot](assets\images\screenshot.png)
+![Screenshot](https://github.com/Brookt1/menu-app/blob/15077b4458f85f84074b77c224e2e0ceedfab636/assets/images/screenshot.png)
 
 
 ## 📋 How to Use
